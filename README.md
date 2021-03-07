@@ -1,8 +1,8 @@
 <!-- https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme -->
 
-### Hello, I am RAPHAEL
+## Hallo, ich bin RAPHAEL
 
-**Focus on:** 💻 #Microsoft #Windows , #ConfigMgr , #PowerShell 💻
+💻 #Microsoft #Windows, #ConfigMgr, #Intune, #PowerShell 💻
 
 ```
 > Name          :       Raphael Weber

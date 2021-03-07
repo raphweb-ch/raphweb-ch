@@ -3,7 +3,17 @@
 ### Hello, I am RAPHAEL
 
 **Focus on:** 💻 #Microsoft #Windows , #ConfigMgr , #PowerShell 💻
-<br>
+
+```
+> Name          :       Raphael Weber
+> Wohnort       :       Zürich, Schweiz
+> Jahrgang      :       1991
+
+> Beruf         :       System Engineer (Modern Workplace)
+                        => Microsoft Windows, ConfigMgr, Intune, PowerShell
+
+> Hobbies       :       Laufen, Radfahren, Gleitschirmfliegen
+```
 
 * * *
 
@@ -12,18 +22,3 @@
 * <a href="https://www.instagram.com/raphweb">Instagram</a>
 * <a href="https://github.com/raphweb-ch">GitHub</a>
 * <a href="https://twitter.com/RaphWeb_">Twitter</a>
-
-<!--
-**raphweb-ch/raphweb-ch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

@@ -5,8 +5,13 @@
 **Focus on**: 💻 #Microsoft #Windows , #ConfigMgr , #PowerShell 💻
 <br>
 <br>
+* * *
 <br>
-
+**Folge mir auf :**
+* <a href="https://www.strava.com/athletes/23075135">Strava</a>
+* <a href="https://www.instagram.com/raphweb">Instagram</a>
+* <a href="https://github.com/raphweb-ch">GitHub</a>
+* <a href="https://twitter.com/RaphWeb_">Twitter</a>
 
 <!--
 **raphweb-ch/raphweb-ch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,6 @@
-### Hi there 👋
+<!-- https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme -->
+
+### Hello 👋
 
 <!--
 **raphweb-ch/raphweb-ch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+😺🐈

@@ -2,12 +2,11 @@
 
 ### Hello, I am RAPHAEL
 
-**Focus on**: 💻 #Microsoft #Windows , #ConfigMgr , #PowerShell 💻
+**Focus on:** 💻 #Microsoft #Windows , #ConfigMgr , #PowerShell 💻
 <br>
 <br>
-* * *
 <br>
-**Folge mir auf :**
+**Folge mir auf:**
 * <a href="https://www.strava.com/athletes/23075135">Strava</a>
 * <a href="https://www.instagram.com/raphweb">Instagram</a>
 * <a href="https://github.com/raphweb-ch">GitHub</a>

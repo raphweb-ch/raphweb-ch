@@ -11,8 +11,6 @@
 
 > Beruf         :       System Engineer (Modern Workplace)
                         => Microsoft Windows, ConfigMgr, Intune, PowerShell
-
-> Hobbies       :       Laufen, Radfahren, Gleitschirmfliegen
 ```
 
 * * *

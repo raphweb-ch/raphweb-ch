@@ -1,6 +1,6 @@
 <!-- https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme -->
 
-## Hallo, ich bin RAPHAEL
+## Hallo, ich bin ʀᴀᴘʜɪ
 
 💻 #Microsoft #Windows, #ConfigMgr, #Intune, #PowerShell 💻
 
@@ -22,3 +22,5 @@
 * <a href="https://www.instagram.com/raphweb">Instagram</a>
 * <a href="https://github.com/raphweb-ch">GitHub</a>
 * <a href="https://twitter.com/RaphWeb_">Twitter</a>
+
+<br>

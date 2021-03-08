@@ -1,11 +1,11 @@
 <!-- https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme -->
 
-### Hallo, ich bin ʀᴀᴘʜɪ
+### WELCOME 😎
 
 💻 #Microsoft #Windows, #ConfigMgr, #Intune, #PowerShell 💻
 
 ```
-> Name          :       Raphael Weber
+> Name          :       ʀᴀᴘʜɪ
 > Wohnort       :       Zürich, Schweiz
 > Jahrgang      :       1991
 
